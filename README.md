@@ -10,8 +10,6 @@
 
 - 📫 **How to reach me** **aalexandermedinaa@gmail.com**
 
-- 📄 Know about my experiences [TODO](TODO)
-
 - ❄️ **Fun fact** I like the cold 
 
 
