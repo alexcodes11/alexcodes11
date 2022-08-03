@@ -1,16 +1,7 @@
 <h1 align="center">Hello 👋 My name is Alexander !</h1>
 
-- 🌱 **I’m currently learning** more about data structures and algorithms!
-
--  💬 **A little about me?** I enjoy playing soccer, running, and working out. I am learning to play the acoustic guitar. I am almost done with my degree this summer! I plan to freelance in the future and use my new skills I aquired throughout the years! Lastly, I am always excited to learn more about the computer science world.
-
-- 👯 **I’m looking to collaborate** on a new project with a company!
-
 - 👨‍💻 **Check out my most recent project** [https://github.com/alexcodes11/SocialMedia](https://github.com/alexcodes11/SocialMedia) & the website link: [https://socialnetworkapp10.herokuapp.com/](https://socialnetworkapp10.herokuapp.com/)
 
-- 📫 **How to reach me** **aalexandermedinaa@gmail.com**
-
-- ❄️ **Fun fact** I like the cold 
 
 
 <h3 align="left">Languages and Tools:</h3>
