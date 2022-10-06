@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 My name is Alexander !</h1>
 
-- **Check out my most recent project: ** [https://github.com/alexcodes11/General-Elections](https://github.com/alexcodes11/General-Elections)
+- **Check out my most recent project:** [https://github.com/alexcodes11/General-Elections](https://github.com/alexcodes11/General-Elections)
 
 - This project was very exciting to complete as
 
